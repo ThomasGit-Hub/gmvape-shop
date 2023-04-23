@@ -11,7 +11,7 @@ export const categories = [
   },
   {
     id: 3,
-    name: "coktails & chill",
+    name: "coktails",
     urlParamName: "coctails",
   },
   {
